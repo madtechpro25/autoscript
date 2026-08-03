@@ -5,7 +5,7 @@
 # Jalankan: bash hydra-bruteforce.sh
 
 # ================== KONFIGURASI — WAJIB DIISI ==================
-BASE_URL="dvwa-nowaf.csalab.app"
+BASE_URL="victim.com"
 WORDLIST="/tmp/wordlist-success.txt"
 CORRECT_PASSWORD="GANTI_DENGAN_PASSWORD_DVWA_ASLI_ANDA"
 LOG_FILE="/tmp/hydra-bruteforce-log.csv"

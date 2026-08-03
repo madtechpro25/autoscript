@@ -1,7 +1,7 @@
 #!/bin/bash
 # Jalankan: bash webdeface.sh
 
-BASE_URL="https://dvwa-nowaf.csalab.app"
+BASE_URL="https://victim.com"
 USERNAME="admin"
 PASSWORD="password"
 COOKIES="/tmp/dvwa-cookies.txt"
