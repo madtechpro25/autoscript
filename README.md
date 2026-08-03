@@ -1,0 +1,2 @@
+# autoscript
+Hanya untuk edukasi
